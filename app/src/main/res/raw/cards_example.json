@@ -1,0 +1,150 @@
+[
+  {
+    "type" : 1,
+    "title": "Indonesia film"
+  },
+  {
+    "title": "Horror film",
+    "cards": [
+      {
+        "type": "MOVIE",
+        "title": "Pengabdi setan 2",
+        "description": "Pengabdi setan 2",
+        "localImageResource": "hororindo",
+        "text": "setan"
+      },
+      {
+        "type": "MOVIE",
+        "title": "Asih 2",
+        "description": "$3.99",
+        "localImageResource": "asih"
+      },
+      {
+        "type": "MOVIE",
+        "title": "Waktu Maghrib",
+        "description": "$3.99",
+        "localImageResource": "waktumaghrib"
+      }
+
+    ]
+  },
+  {
+    "title": "Comedy film",
+    "cards": [
+      {
+        "type": "MOVIE_BASE",
+        "title": "Cek toko sebelah",
+        "localImageResource": "comedyindo"
+      },
+      {
+        "type": "MOVIE_BASE",
+        "title": "Yo Wes Ben",
+        "localImageResource": "yowesben"
+      },
+      {
+        "type": "MOVIE_BASE",
+        "title": "Ngeri Ngeri Sedap",
+        "localImageResource": "ngeringerisedap"
+      }
+    ]
+  },
+  {
+    "title": "Action film",
+    "cards": [
+      {
+        "type": "MOVIE_COMPLETE",
+        "description": "$3.99",
+        "title": "Mencuri raden saleh",
+        "localImageResource": "actionind"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Pertaruhan",
+        "description": "$3.99",
+        "localImageResource": "pertaruhan"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Serigala Terakhir",
+        "description": "$3.99",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "srigalat"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Cursed",
+        "description": "$3.99",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_04"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "My Crazy One",
+        "description": "$3.99",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_05"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Gone",
+        "description": "$3.99",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_06"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "A Cold Night To Stay",
+        "description": "$3.99",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_07"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "description": "$3.99",
+        "title": "The Silence",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_08"
+      },
+      {
+        "type": "MOVIE_COMPLETE",
+        "title": "Hear The Roar",
+        "description": "$3.99",
+        "footerIconLocalImageResource": "stars_red",
+        "localImageResource": "card_image_movie_09"
+      }
+    ]
+  },
+  {
+    "type" : 2
+  },
+  {
+    "type" : 1,
+    "title": "Tentang Film"
+  },
+  {
+    "title": "Best Film",
+    "cards": [
+      {
+        "type": "SIDE_INFO",
+        "title": "Pengabdi Setan 2",
+        "description": "Film horor",
+        "extraText": "bercerita tentang babak baru kehidupan keluarga Bapak beserta ketiga anaknya, yakni Rini, Toni, dan Bondi setelah beberapa tahun selamat dari kejadian yang menimpa keluarganya. Mereka kemudian tinggal di sebuah rumah susun yang terbilang cukup kumuh di kawasan Jakarta Utara.",
+        "localImageResource": "hororindo"
+      },
+      {
+        "type": "SIDE_INFO",
+        "title": "Cek Toko Sebelah",
+        "description": "Film komedi",
+        "extraText": "berkisah tentang drama yang dialami oleh Koh Afuk dan dua anaknya, Erwin dan Yohan. Dua lelaki ini memiliki masalah baru, yakni Erwin dengan calon mertuanya yang otoriter dan Yohan dengan beban dari Koh Afuk untuk menimang cucu. Sembari menata diri, keduanya berusaha menemukan jalan keluar atas masalah di depan mata.",
+        "localImageResource": "comedyindo"
+      },
+      {
+        "type": "SIDE_INFO",
+        "title": "Mencuri Raden Saleh",
+        "description": "Film Action",
+        "extraText": "Demi menyelamatkan sang ayah, seorang ahli pemalsu bertekad mencuri lukisan yang tak ternilai dengan bantuan sekelompok kru spesialis bayaran.",
+        "localImageResource": "actionind"
+      }
+          ]
+  }
+]
